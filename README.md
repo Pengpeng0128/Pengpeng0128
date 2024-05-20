@@ -1,26 +1,70 @@
-# Hi there 👋
-# 欢迎光临我的博客！
-🎓 Accountancy in SUSE
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accountancy in SUSE</title>
+</head>
+<body>
+    <h1>Hi there 👋</h1>
+    <h1>欢迎光临我的博客！</h1>
 
-|Actions| English | Chinese |
-|---|---|---|
-|🔭 I’m currently working on ...|Graduation thesis|毕业论文|
-|🌱 I’m currently learning ...|Markdown & Website|MD和网站|
-|👯 I’m looking to collaborate on ...|learning on CPA|学习CPA|
-|🤔 I’m looking for help with ...|Future Planning|生涯规划|
-|💬 Ask me about ...|Issues in Accounting|会计上的问题|
-|📫 How to reach me: ...|[MailToMe](mailto:leolee176@foxmail.com)|[给我发邮件](mailto:leolee176@foxmail.com)| 
-|😄 Pronouns: ...|preparedness ensures success and unpreparedness spells failure|预则立，不预则废| 
-|⚡ Fun fact: ...|GiveMeSomeHints|给我点提示哈哈哈| 
----
-https://img.shields.io/badge/MailToMe_@鹏鹏0128
+    <h2>🎓 Accountancy in SUSE</h2>
 
+    <table>
+        <thead>
+            <tr>
+                <th>Actions</th>
+                <th>English</th>
+                <th>Chinese</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>🔭 I’m currently working on ...</td>
+                <td>Graduation thesis</td>
+                <td>毕业论文</td>
+            </tr>
+            <tr>
+                <td>🌱 I’m currently learning ...</td>
+                <td>Markdown & Website</td>
+                <td>MD和网站</td>
+            </tr>
+            <tr>
+                <td>👯 I’m looking to collaborate on ...</td>
+                <td>learning on CPA</td>
+                <td>学习CPA</td>
+            </tr>
+            <tr>
+                <td>🤔 I’m looking for help with ...</td>
+                <td>Future Planning</td>
+                <td>生涯规划</td>
+            </tr>
+            <tr>
+                <td>💬 Ask me about ...</td>
+                <td>Issues in Accounting</td>
+                <td>会计上的问题</td>
+            </tr>
+            <tr>
+                <td>📫 How to reach me: ...</td>
+                <td><a href="mailto:leolee176@foxmail.com">MailToMe</a></td>
+                <td><a href="mailto:leolee176@foxmail.com">给我发邮件</a></td>
+            </tr>
+            <tr>
+                <td>😄 Pronouns: ...</td>
+                <td>preparedness ensures success and unpreparedness spells failure</td>
+                <td>预则立，不预则废</td>
+            </tr>
+            <tr>
+                <td>⚡ Fun fact: ...</td>
+                <td>GiveMeSomeHints</td>
+                <td>给我点提示哈哈哈</td>
+            </tr>
+        </tbody>
+    </table>
 
-
-
-
-
-
-
-
-
+    <footer>
+        <a href="https://img.shields.io/badge/MailToMe_@鹏鹏0128">MailToMe_@鹏鹏0128</a>
+    </footer>
+</body>
+</html>
